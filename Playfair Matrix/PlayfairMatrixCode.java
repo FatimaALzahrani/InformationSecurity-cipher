@@ -52,6 +52,9 @@ public class PlayfairMatrixCode {
             String pt = sc.nextLine();
             System.out.println("Enter The Key : ");
             String key = sc.nextLine();
+            //بنخليهم بالصغير 
+            key=key.toLowerCase();
+            pt=pt.toLowerCase();
             //حذف التكرارات من المفتاح عشان نحطه بالمصفوفه
             int jj, index = 0, len = key.length();
             char c[] = key.toCharArray();
