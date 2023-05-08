@@ -26,6 +26,8 @@
 
 تختلف أنواع التشفير في العديد من الخصائص، مثل صعوبة تحليل النص المشفر، ومستوى الأمان المطلوب، وطول المفتاح، وسرعة التشفير وفعاليته. ويتم اختيار نوع التشفير المناسب بناءً على الغرض المطلوب من التشفير ومستوى الأمان المطلوب للبيانات.
 
+
+
 |          رابط شرح للخوارزمية          |                  رابط الكود المستخدم للتشفير                |        الخوارزمية المستخدمه للتشفير      	 		|				
 |:-------------------------:|:-------------------------:|:-------------------------:|
 |        Caesar Cipher   	  | [Caesar Cipher code.cpp](https://github.com/FatimaALzahrani/InformationSecurity-cipher/blob/main/Caesar%20Cipher/Caesar%20Cipher%20code.cpp)   | [explanation of the Caesar Chiper](https://github.com/FatimaALzahrani/InformationSecurity-cipher/blob/main/Caesar%20Cipher/README.md)                     				 		|
