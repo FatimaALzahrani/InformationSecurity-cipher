@@ -19,6 +19,5 @@ int main() {
     re[1] = (key[1][0] * (ch.find(tolower(msg[0])) + 1)) + (key[1][1] * (ch.find(tolower(msg[1])) + 1));
     sre1 = ch[(re[0] % 26) - 1], sre2 = ch[(re[1] % 26) - 1];
     std::cout << sre1 << "(" << re[0] % 26 << ") , " << sre2 << "(" << re[1] % 26 << ") " << std::endl;
-
     return 0;
 }
